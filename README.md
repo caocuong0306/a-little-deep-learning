@@ -74,6 +74,8 @@ A reading roadmap of CNN and Deep Learning basics.
 ## Papers
 
 #### CNN Architectures
+* SqueezeNet [[Paper]](https://arxiv.org/abs/1602.07360)[[Project]](https://github.com/DeepScale/SqueezeNet)
+  * Forrest N. Iandola and Song Han and Matthew W. Moskewicz and Khalid Ashraf and William J. Dally and Kurt Keutzer, SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and $<$0.5MB model size, 2016.
 * ResNet [[Paper]](https://arxiv.org/abs/1512.03385)[[Project]](https://github.com/KaimingHe/deep-residual-networks)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, Deep Residual Learning for Image Recognition, CVPR, 2016.
 * VGG-Net [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)[[Project]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
